@@ -1,3 +1,3 @@
 # quantum-composer
 
-# React-based quantum composer
+## React-based quantum circuit composer
